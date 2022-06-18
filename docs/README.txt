@@ -1,0 +1,1 @@
+This is just a first test to do a git commit/push from VS Code
